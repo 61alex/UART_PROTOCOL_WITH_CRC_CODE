@@ -1,0 +1,164 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/USER/Documents/UART_SERIAL_PROTOCOL
+vtb_uart_top
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1730290261
+!i10b 1
+!s100 O7:e_8g[=NXfV@e]0_dhl0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+INC=kWkF0K>[R]6UIJ^aQ32
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dC:/Users/USER/Desktop/xxx
+w1730289363
+Z4 8C:\Users\USER\Desktop\xxx\uart_testbench.sv
+Z5 FC:\Users\USER\Desktop\xxx\uart_testbench.sv
+!i122 14
+L0 3 93
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1730290261.000000
+Z7 !s107 C:\Users\USER\Desktop\xxx\uart_testbench.sv|
+Z8 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\USER\Desktop\xxx\uart_testbench.sv|
+!i113 1
+Z9 o-work work -sv
+Z10 tCvgOpt 0
+vUART_Receiver
+R0
+Z11 !s110 1731402854
+!i10b 1
+!s100 fMUkPN@_Uo5Z=M_:`[c^o3
+R1
+ImkZe=5gBbaSekBLdk<=WT2
+R2
+S1
+R3
+w1731393769
+8C:\Users\USER\Desktop\xxx\uart_receiver.sv
+FC:\Users\USER\Desktop\xxx\uart_receiver.sv
+!i122 720
+L0 5 198
+R6
+r1
+!s85 0
+31
+Z12 !s108 1731402854.000000
+!s107 C:\Users\USER\Desktop\xxx\uart_receiver.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\USER\Desktop\xxx\uart_receiver.sv|
+!i113 1
+R9
+R10
+n@u@a@r@t_@receiver
+vUART_TESTBENCH
+R0
+R11
+!i10b 1
+!s100 LGY_WN9?[=TSFi<@A4R5e3
+R1
+IRcz8CXkR:S23aR^l3X[0^3
+R2
+S1
+R3
+w1731396083
+R4
+R5
+!i122 721
+L0 3 95
+R6
+r1
+!s85 0
+31
+R12
+R7
+R8
+!i113 1
+R9
+R10
+n@u@a@r@t_@t@e@s@t@b@e@n@c@h
+vuart_top
+R0
+!s110 1731402853
+!i10b 1
+!s100 0BH`G[D;QZa_n_TU8E0<K2
+R1
+IY7PXHUJ9]:37<73kl3zIj0
+R2
+S1
+R3
+w1731391322
+8C:\Users\USER\Desktop\xxx\uart_top.sv
+FC:\Users\USER\Desktop\xxx\uart_top.sv
+!i122 718
+L0 5 34
+R6
+r1
+!s85 0
+31
+!s108 1731402853.000000
+!s107 C:\Users\USER\Desktop\xxx\uart_top.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\USER\Desktop\xxx\uart_top.sv|
+!i113 1
+R9
+R10
+vuart_top_tb
+R0
+!s110 1730379252
+!i10b 1
+!s100 D`TO4_@Oc`XzoD_`7__H03
+R1
+Ia^[onW[HSaVYNa:^W>@>z2
+R2
+S1
+R3
+w1730378393
+R4
+R5
+!i122 87
+L0 3 147
+R6
+r1
+!s85 0
+31
+!s108 1730379251.000000
+R7
+R8
+!i113 1
+R9
+R10
+vUART_Transmitter
+R0
+R11
+!i10b 1
+!s100 ^`Fd3S3aoR5VL`FFM28jN0
+R1
+IR1_XI2GZ6J5f?iMW8dSc<2
+R2
+S1
+R3
+w1731399199
+8C:\Users\USER\Desktop\xxx\uart_transmitter.sv
+FC:\Users\USER\Desktop\xxx\uart_transmitter.sv
+!i122 719
+L0 3 152
+R6
+r1
+!s85 0
+31
+R12
+!s107 C:\Users\USER\Desktop\xxx\uart_transmitter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\USER\Desktop\xxx\uart_transmitter.sv|
+!i113 1
+R9
+R10
+n@u@a@r@t_@transmitter
