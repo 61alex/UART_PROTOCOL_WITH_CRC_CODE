@@ -1,0 +1,140 @@
+# Compile of uart_top.sv was successful.
+# Compile of uart_transmitter.sv was successful.
+# Compile of uart_receiver.sv was successful.
+# Compile of uart_testbench.sv was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.UART_TESTBENCH
+# vsim -gui work.UART_TESTBENCH 
+# Start time: 07:15:11 on Nov 12,2024
+# Loading sv_std.std
+# Loading work.UART_TESTBENCH
+# Loading work.uart_top
+# Loading work.UART_Transmitter
+# Loading work.UART_Receiver
+add wave -position insertpoint  \
+sim:/UART_TESTBENCH/c_BIT_PERIOD \
+sim:/UART_TESTBENCH/clk \
+sim:/UART_TESTBENCH/CLK_PERIOD \
+sim:/UART_TESTBENCH/crc_error \
+sim:/UART_TESTBENCH/data_in \
+sim:/UART_TESTBENCH/data_out \
+sim:/UART_TESTBENCH/rst \
+sim:/UART_TESTBENCH/rx \
+sim:/UART_TESTBENCH/tx \
+sim:/UART_TESTBENCH/tx_done \
+sim:/UART_TESTBENCH/tx_start
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: USER  Hostname: DESKTOP-I97M16K  ProcessID: 5392
+#           Attempting to use alternate WLF file "./wlft8xb3nx".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft8xb3nx
+run -all
+quit -sim
+# End time: 07:18:12 on Nov 12,2024, Elapsed time: 0:03:01
+# Errors: 0, Warnings: 4
+# Compile of uart_top.sv was successful.
+# Compile of uart_transmitter.sv was successful.
+# Compile of uart_receiver.sv was successful.
+# Compile of uart_testbench.sv was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.UART_TESTBENCH
+# vsim -gui work.UART_TESTBENCH 
+# Start time: 07:43:17 on Nov 12,2024
+# Loading sv_std.std
+# Loading work.UART_TESTBENCH
+# Loading work.uart_top
+# Loading work.UART_Transmitter
+# Loading work.UART_Receiver
+add wave -position insertpoint  \
+sim:/UART_TESTBENCH/c_BIT_PERIOD \
+sim:/UART_TESTBENCH/clk \
+sim:/UART_TESTBENCH/CLK_PERIOD \
+sim:/UART_TESTBENCH/crc_error \
+sim:/UART_TESTBENCH/data_in \
+sim:/UART_TESTBENCH/data_out \
+sim:/UART_TESTBENCH/rst \
+sim:/UART_TESTBENCH/rx \
+sim:/UART_TESTBENCH/tx \
+sim:/UART_TESTBENCH/tx_done \
+sim:/UART_TESTBENCH/tx_start
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: USER  Hostname: DESKTOP-I97M16K  ProcessID: 5392
+#           Attempting to use alternate WLF file "./wlft03ze7d".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft03ze7d
+run -all
+quit -sim
+# End time: 07:46:41 on Nov 12,2024, Elapsed time: 0:03:24
+# Errors: 0, Warnings: 4
+# Compile of uart_top.sv was successful.
+# Compile of uart_transmitter.sv was successful.
+# Compile of uart_receiver.sv was successful.
+# Compile of uart_testbench.sv was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.UART_TESTBENCH
+# vsim -gui work.UART_TESTBENCH 
+# Start time: 08:05:31 on Nov 12,2024
+# Loading sv_std.std
+# Loading work.UART_TESTBENCH
+# Loading work.uart_top
+# Loading work.UART_Transmitter
+# Loading work.UART_Receiver
+add wave -position insertpoint  \
+sim:/UART_TESTBENCH/c_BIT_PERIOD \
+sim:/UART_TESTBENCH/clk \
+sim:/UART_TESTBENCH/CLK_PERIOD \
+sim:/UART_TESTBENCH/crc_error \
+sim:/UART_TESTBENCH/data_in \
+sim:/UART_TESTBENCH/data_out \
+sim:/UART_TESTBENCH/rst \
+sim:/UART_TESTBENCH/rx \
+sim:/UART_TESTBENCH/tx \
+sim:/UART_TESTBENCH/tx_done \
+sim:/UART_TESTBENCH/tx_start
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: USER  Hostname: DESKTOP-I97M16K  ProcessID: 5392
+#           Attempting to use alternate WLF file "./wlfti0vkhk".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlfti0vkhk
+run -all
+quit -sim
+# End time: 08:08:51 on Nov 12,2024, Elapsed time: 0:03:20
+# Errors: 0, Warnings: 4
+# Compile of uart_top.sv was successful.
+# Compile of uart_transmitter.sv was successful.
+# Compile of uart_receiver.sv was successful.
+# Compile of uart_testbench.sv was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of uart_top.sv was successful.
+# Compile of uart_transmitter.sv was successful.
+# Compile of uart_receiver.sv was successful.
+# Compile of uart_testbench.sv was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.UART_TESTBENCH
+# vsim -gui work.UART_TESTBENCH 
+# Start time: 10:14:34 on Nov 12,2024
+# Loading sv_std.std
+# Loading work.UART_TESTBENCH
+# Loading work.uart_top
+# Loading work.UART_Transmitter
+# Loading work.UART_Receiver
+add wave -position insertpoint  \
+sim:/UART_TESTBENCH/c_BIT_PERIOD \
+sim:/UART_TESTBENCH/clk \
+sim:/UART_TESTBENCH/CLK_PERIOD \
+sim:/UART_TESTBENCH/crc_error \
+sim:/UART_TESTBENCH/data_in \
+sim:/UART_TESTBENCH/data_out \
+sim:/UART_TESTBENCH/rst \
+sim:/UART_TESTBENCH/rx \
+sim:/UART_TESTBENCH/tx \
+sim:/UART_TESTBENCH/tx_done \
+sim:/UART_TESTBENCH/tx_start
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: USER  Hostname: DESKTOP-I97M16K  ProcessID: 5392
+#           Attempting to use alternate WLF file "./wlft4q81js".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft4q81js
+run -all
+# End time: 10:22:20 on Nov 12,2024, Elapsed time: 0:07:46
+# Errors: 0, Warnings: 5
